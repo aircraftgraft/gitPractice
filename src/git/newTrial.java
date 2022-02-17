@@ -1,12 +1,12 @@
 package git;
 
-public class batch12 {
+public class newTrial {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		System.out.println("new task");
 
-			System.out.println("Batch 12");
-			
 	}
 
 }
